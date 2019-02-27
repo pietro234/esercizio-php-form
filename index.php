@@ -1,3 +1,21 @@
+<?php
+
+     $name= $_POST[''];
+
+
+
+          
+?>
+
+
+
+
+
+
+
+
+
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -34,6 +52,4 @@
     
     <script src="js/jquery-3.3.1.min.js"></script>
     <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-  </body>
-</html>
+    <script src="js/bootstrap.min.js"></scrip
